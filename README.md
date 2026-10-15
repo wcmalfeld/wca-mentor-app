@@ -1,6 +1,6 @@
 # WCA Mentor
 
-A personal AI mentor and development journal for **World Class Academy** students: quarterly goals, a mountain-biking progression journal, academic tracking, private reflections, and an AI mentor (Claude) that uses the student's own saved data to help them plan and follow through.
+A personal AI mentor and development journal for World Class Academy students: quarterly goals, a mountain-biking progression journal, academic tracking, private reflections, and an AI mentor (Claude) that uses the student's own saved data to help them plan and follow through.
 
 **Stack:** Expo SDK 57 · React Native 0.86 · TypeScript (strict) · Expo Router (native tabs) · TanStack Query · React Hook Form + Zod · Supabase (Auth, Postgres + RLS, Edge Functions) · Anthropic Messages API.
 
